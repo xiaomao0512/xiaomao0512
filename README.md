@@ -3,7 +3,7 @@ im dahuang\
 ⚡: C# \
 ⚡: HTML \
 ⚡: UE5 \
-⚡: Python
+⚡: Python\
 🌱:Chihlee University of Technology
 
 <!--
