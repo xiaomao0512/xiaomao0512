@@ -26,7 +26,7 @@
 - ✅ 良好的專案架構，具備後續擴展實際後端與上鏈功能的能力
 
 ## 🔗 專案代碼庫
-[GitHub Repository]([https://github.com/xiaomao0512](https://github.com/xiaomao0512/solana))
+[GitHub Repository](https://github.com/xiaomao0512/solana)
 
 ## 🖼️ 預覽畫面
 - 房源列表頁面（桌面端 / 手機端適配）
