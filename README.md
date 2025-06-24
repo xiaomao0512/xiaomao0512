@@ -27,8 +27,3 @@
 
 ## 🔗 專案代碼庫
 [GitHub Repository](https://github.com/xiaomao0512/solana)
-
-## 🖼️ 預覽畫面
-- 房源列表頁面（桌面端 / 手機端適配）
-- 房源詳情彈窗 + 錢包支付簽名流程
-- 用戶驗證流程畫面（模擬）
